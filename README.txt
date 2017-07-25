@@ -1,0 +1,1 @@
+This game is made using bootstrap , css for frontend and JS for logic and event handling .
